@@ -1,2 +1,2 @@
 Download the executable from the release.
-Download the EO.Trainer.pck file to the same folder as the executable.
+Download EO.Trainer.pck and EOs.txt to the same folder as the executable.
